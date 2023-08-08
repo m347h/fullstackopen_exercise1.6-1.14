@@ -17,3 +17,9 @@ https://fullstackopen.com/static/0a5d15ae9f055a15cb469b9c9223df41/5a190/14e.png!
 
 ## 1.8: unicafe step3 ##
 Refactor your application so that displaying the statistics is extracted into its own Statistics component. The state of the application should remain in the App root component.
+
+
+## 1.9: unicafe step4 ##
+Change your application to display statistics only once feedback has been gathered.
+
+
