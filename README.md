@@ -1,5 +1,6 @@
 # fullstackopen_exercise1.6-1.14
 
+check out App.js
 
 ## 1.6: unicafe step1 ##
 
